@@ -1,8 +1,8 @@
-# Copyright 2018 Tecnativa - Sergio Teruel
+# Copyright 2019 Tecnativa - Sergio Teruel
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 {
-    'name': 'Website Sale Product Attribute Filter Visibility',
-    'summary': 'Allow hide any attributes in shop attributes filter',
+    'name': 'Website Sale Attribute Filter Category',
+    'summary': 'Allow group attributes in shop by categories',
     'version': '11.0.1.0.0',
     'development_status': 'Beta',
     'category': 'Website',
@@ -12,13 +12,13 @@
     'application': False,
     'installable': True,
     'depends': [
-        'website_sale',
+        'website_sale_comparison',
     ],
     'data': [
         'views/assets.xml',
-        'views/product_attribute_views.xml',
+        'views/templates.xml',
     ],
     'demo': [
         'data/demo.xml',
-    ]
+    ],
 }
