@@ -17,6 +17,7 @@ setuptools.setup(
         'odoo12-addon-website_sale_exception',
         'odoo12-addon-website_sale_hide_empty_category',
         'odoo12-addon-website_sale_hide_price',
+        'odoo12-addon-website_sale_product_attachment',
         'odoo12-addon-website_sale_product_attribute_filter_visibility',
         'odoo12-addon-website_sale_product_attribute_value_filter_existing',
         'odoo12-addon-website_sale_product_brand',
@@ -33,6 +34,7 @@ setuptools.setup(
         'odoo12-addon-website_sale_stock_force_block',
         'odoo12-addon-website_sale_suggest_create_account',
         'odoo12-addon-website_sale_vat_required',
+        'odoo12-addon-website_snippet_product_category',
     ],
     classifiers=[
         'Programming Language :: Python',
