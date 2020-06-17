@@ -4,19 +4,25 @@
 
 {
     "name": "Product Multi Links (Template)",
-    "version": "13.0.1.0.0",
+    "version": "13.0.1.1.0",
     "category": "Generic Modules",
     "author": "GRAP, ACSONE SA/NV, Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/e-commerce",
     "license": "AGPL-3",
     "depends": ["sale"],
     "data": [
+        "security/product_template_link_type.xml",
+        "views/product_template_link_type.xml",
         "security/ir.model.access.csv",
         "views/action.xml",
         "views/product_template_view.xml",
         "views/product_template_link_view.xml",
         "views/menu.xml",
     ],
-    "demo": ["demo/product_template_link.xml"],
+    "demo": [
+        "data/product_template_link_type.xml",
+        "demo/product_template_link_type.xml",
+        "demo/product_template_link.xml",
+    ],
     "installable": True,
 }
