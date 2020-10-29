@@ -19,9 +19,10 @@ msgid "<span>From </span>"
 msgstr ""
 
 #. module: website_sale_product_minimal_price
-#: model:ir.model.fields,field_description:website_sale_product_minimal_price.field_product_product__has_distinct_variant_price
-#: model:ir.model.fields,field_description:website_sale_product_minimal_price.field_product_template__has_distinct_variant_price
-msgid "Has variants with distinct price extra"
+#. openerp-web
+#: code:addons/website_sale_product_minimal_price/static/src/xml/website_sale_product_minimal_price.xml:5
+#, python-format
+msgid "Prices per quantity ("
 msgstr ""
 
 #. module: website_sale_product_minimal_price
