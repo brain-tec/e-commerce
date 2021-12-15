@@ -3,7 +3,7 @@
 {
     "name": "Website Sale Stock Provisioning Date",
     "summary": "Display provisioning date for a product in shop online",
-    "version": "13.0.1.0.0",
+    "version": "13.0.1.1.0",
     "development_status": "Beta",
     "category": "Website",
     "website": "https://github.com/OCA/e-commerce",
@@ -13,4 +13,5 @@
     "installable": True,
     "depends": ["website_sale_stock"],
     "data": ["views/assets.xml", "views/product_template_views.xml"],
+    "pre_init_hook": "pre_init_hook",
 }
