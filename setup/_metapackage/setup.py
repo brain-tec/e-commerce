@@ -22,6 +22,7 @@ setuptools.setup(
         'odoo14-addon-website_sale_order_type',
         'odoo14-addon-website_sale_product_attribute_filter_category',
         'odoo14-addon-website_sale_product_attribute_filter_visibility',
+        'odoo14-addon-website_sale_product_attribute_value_filter_existing',
         'odoo14-addon-website_sale_product_brand',
         'odoo14-addon-website_sale_product_description',
         'odoo14-addon-website_sale_product_detail_attribute_image',
@@ -29,6 +30,7 @@ setuptools.setup(
         'odoo14-addon-website_sale_product_minimal_price',
         'odoo14-addon-website_sale_show_company_data',
         'odoo14-addon-website_sale_stock_available',
+        'odoo14-addon-website_sale_tax_toggle',
     ],
     classifiers=[
         'Programming Language :: Python',

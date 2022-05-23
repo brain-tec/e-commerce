@@ -34,6 +34,7 @@ addon | version | maintainers | summary
 [website_sale_order_type](website_sale_order_type/) | 14.0.1.0.0 | [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | This module allows sale_order_type to work with website_sale.
 [website_sale_product_attribute_filter_category](website_sale_product_attribute_filter_category/) | 14.0.1.0.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Allow group attributes in shop by categories
 [website_sale_product_attribute_filter_visibility](website_sale_product_attribute_filter_visibility/) | 14.0.1.0.0 |  | Allow hide any attributes in shop attributes filter
+[website_sale_product_attribute_value_filter_existing](website_sale_product_attribute_value_filter_existing/) | 14.0.1.0.0 |  | Allow hide attributes values not used in variants
 [website_sale_product_brand](website_sale_product_brand/) | 14.0.1.0.0 |  | Product Brand Filtering in Website
 [website_sale_product_description](website_sale_product_description/) | 14.0.1.0.0 |  | Shows custom e-Commerce description for products
 [website_sale_product_detail_attribute_image](website_sale_product_detail_attribute_image/) | 14.0.1.0.0 |  | Display attributes images in shop product detail
@@ -41,6 +42,7 @@ addon | version | maintainers | summary
 [website_sale_product_minimal_price](website_sale_product_minimal_price/) | 14.0.1.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Display minimal price for products that has variants
 [website_sale_show_company_data](website_sale_show_company_data/) | 14.0.1.0.0 |  | Show commercial partner data if any
 [website_sale_stock_available](website_sale_stock_available/) | 14.0.1.0.0 |  | Display 'Available to promise' in shop online instead 'Quantity On Hand'
+[website_sale_tax_toggle](website_sale_tax_toggle/) | 14.0.1.0.0 |  | Allow display price in Shop with or without taxes
 
 [//]: # (end addons)
 
