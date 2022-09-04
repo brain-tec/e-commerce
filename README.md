@@ -1,14 +1,15 @@
 
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/e-commerce&target_branch=14.0)
-[![Build Status](https://travis-ci.com/OCA/e-commerce.svg?branch=14.0)](https://travis-ci.com/OCA/e-commerce)
+[![Pre-commit Status](https://github.com/OCA/e-commerce/actions/workflows/pre-commit.yml/badge.svg?branch=14.0)](https://github.com/OCA/e-commerce/actions/workflows/pre-commit.yml?query=branch%3A14.0)
+[![Build Status](https://github.com/OCA/e-commerce/actions/workflows/test.yml/badge.svg?branch=14.0)](https://github.com/OCA/e-commerce/actions/workflows/test.yml?query=branch%3A14.0)
 [![codecov](https://codecov.io/gh/OCA/e-commerce/branch/14.0/graph/badge.svg)](https://codecov.io/gh/OCA/e-commerce)
 [![Translation Status](https://translation.odoo-community.org/widgets/e-commerce-14-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/e-commerce-14-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
 
-# e-commerce
+# Odoo E-Commerce Modules
 
-TODO: add repo description.
+Modules aiming to support e-commerce specific needs. This includes all the new website_sale related modules.
 
 <!-- /!\ do not modify below this line -->
 
@@ -42,6 +43,7 @@ addon | version | maintainers | summary
 [website_sale_product_detail_attribute_image](website_sale_product_detail_attribute_image/) | 14.0.1.0.0 |  | Display attributes images in shop product detail
 [website_sale_product_detail_attribute_value_image](website_sale_product_detail_attribute_value_image/) | 14.0.1.0.0 |  | Display attributes values images in shop product detail
 [website_sale_product_minimal_price](website_sale_product_minimal_price/) | 14.0.1.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Display minimal price for products that has variants
+[website_sale_require_legal](website_sale_require_legal/) | 14.0.1.0.0 |  | Force the user to accept legal tems to buy in the web shop
 [website_sale_show_company_data](website_sale_show_company_data/) | 14.0.1.0.0 |  | Show commercial partner data if any
 [website_sale_stock_available](website_sale_stock_available/) | 14.0.1.0.0 |  | Display 'Available to promise' in shop online instead 'Quantity On Hand'
 [website_sale_stock_provisioning_date](website_sale_stock_provisioning_date/) | 14.0.1.0.0 |  | Display provisioning date for a product in shop online
