@@ -31,7 +31,7 @@ addon | version | maintainers | summary
 [website_sale_invoice_address](website_sale_invoice_address/) | 15.0.1.0.0 |  | Set e-Commerce sale orders invoice address as in backend
 [website_sale_order_type](website_sale_order_type/) | 15.0.1.0.0 | [![stefan-tecnativa](https://github.com/stefan-tecnativa.png?size=30px)](https://github.com/stefan-tecnativa) [![pilarvargas-tecnativa](https://github.com/pilarvargas-tecnativa.png?size=30px)](https://github.com/pilarvargas-tecnativa) | This module allows sale_order_type to work with website_sale.
 [website_sale_product_attachment](website_sale_product_attachment/) | 15.0.1.0.0 | [![Yajo](https://github.com/Yajo.png?size=30px)](https://github.com/Yajo) | Let visitors download attachments from a product page
-[website_sale_product_attribute_filter_category](website_sale_product_attribute_filter_category/) | 15.0.1.0.0 |  | Allow group attributes in shop by categories
+[website_sale_product_attribute_filter_category](website_sale_product_attribute_filter_category/) | 15.0.2.0.0 |  | Allow group attributes in shop by categories
 [website_sale_product_brand](website_sale_product_brand/) | 15.0.1.0.0 |  | Product Brand Filtering in Website
 [website_sale_product_description](website_sale_product_description/) | 15.0.1.0.0 |  | Shows custom e-Commerce description for products
 [website_sale_product_detail_attribute_image](website_sale_product_detail_attribute_image/) | 15.0.1.0.0 |  | Display attributes images in shop product detail
@@ -39,6 +39,7 @@ addon | version | maintainers | summary
 [website_sale_product_item_cart_custom_qty](website_sale_product_item_cart_custom_qty/) | 15.0.1.0.0 | [![CarlosRoca13](https://github.com/CarlosRoca13.png?size=30px)](https://github.com/CarlosRoca13) | Allows to add to cart from product items a custom quantity.
 [website_sale_product_reference_displayed](website_sale_product_reference_displayed/) | 15.0.1.0.0 |  | Display product reference in e-commerce
 [website_sale_product_sort](website_sale_product_sort/) | 15.0.1.0.0 |  | Allow to define default sort criteria for e-commerce
+[website_sale_require_legal](website_sale_require_legal/) | 15.0.1.0.0 |  | Force the user to accept legal tems to buy in the web shop
 [website_sale_require_login](website_sale_require_login/) | 15.0.1.0.1 |  | Force users to login for buying
 [website_sale_secondary_unit](website_sale_secondary_unit/) | 15.0.1.0.0 |  | Allow manage secondary units in website shop
 [website_sale_suggest_create_account](website_sale_suggest_create_account/) | 15.0.1.0.1 |  | Suggest users to create an account when buying in the website
