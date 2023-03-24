@@ -21,6 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[product_template_multi_link](product_template_multi_link/) | 15.0.1.0.0 |  | Product Multi Links (Template)
 [website_sale_b2x_alt_price](website_sale_b2x_alt_price/) | 15.0.1.0.0 | [![Yajo](https://github.com/Yajo.png?size=30px)](https://github.com/Yajo) | Display prices with(out) taxes in eCommerce, complementing normal mode
 [website_sale_cart_expire](website_sale_cart_expire/) | 15.0.1.1.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Cancel carts without activity after a configurable time
 [website_sale_checkout_country_vat](website_sale_checkout_country_vat/) | 15.0.1.0.0 |  | Autocomplete VAT in checkout process
@@ -42,6 +43,7 @@ addon | version | maintainers | summary
 [website_sale_product_detail_attribute_image](website_sale_product_detail_attribute_image/) | 15.0.1.0.0 |  | Display attributes images in shop product detail
 [website_sale_product_detail_attribute_value_image](website_sale_product_detail_attribute_value_image/) | 15.0.1.0.0 |  | Display attributes values images in shop product detail
 [website_sale_product_item_cart_custom_qty](website_sale_product_item_cart_custom_qty/) | 15.0.1.0.0 | [![CarlosRoca13](https://github.com/CarlosRoca13.png?size=30px)](https://github.com/CarlosRoca13) | Allows to add to cart from product items a custom quantity.
+[website_sale_product_minimal_price](website_sale_product_minimal_price/) | 15.0.1.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Display minimal price for products that has variants
 [website_sale_product_reference_displayed](website_sale_product_reference_displayed/) | 15.0.1.0.0 |  | Display product reference in e-commerce
 [website_sale_product_sort](website_sale_product_sort/) | 15.0.1.0.0 |  | Allow to define default sort criteria for e-commerce
 [website_sale_require_legal](website_sale_require_legal/) | 15.0.2.0.0 |  | Force the user to accept legal tems to buy in the web shop

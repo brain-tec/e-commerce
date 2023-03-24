@@ -8,6 +8,7 @@ setuptools.setup(
     description="Meta package for oca-e-commerce Odoo addons",
     version=version,
     install_requires=[
+        'odoo-addon-product_template_multi_link>=15.0dev,<15.1dev',
         'odoo-addon-website_sale_b2x_alt_price>=15.0dev,<15.1dev',
         'odoo-addon-website_sale_cart_expire>=15.0dev,<15.1dev',
         'odoo-addon-website_sale_checkout_country_vat>=15.0dev,<15.1dev',
@@ -29,6 +30,7 @@ setuptools.setup(
         'odoo-addon-website_sale_product_detail_attribute_image>=15.0dev,<15.1dev',
         'odoo-addon-website_sale_product_detail_attribute_value_image>=15.0dev,<15.1dev',
         'odoo-addon-website_sale_product_item_cart_custom_qty>=15.0dev,<15.1dev',
+        'odoo-addon-website_sale_product_minimal_price>=15.0dev,<15.1dev',
         'odoo-addon-website_sale_product_reference_displayed>=15.0dev,<15.1dev',
         'odoo-addon-website_sale_product_sort>=15.0dev,<15.1dev',
         'odoo-addon-website_sale_require_legal>=15.0dev,<15.1dev',
