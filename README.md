@@ -21,7 +21,9 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[website_sale_attribute_filter_multiselect](website_sale_attribute_filter_multiselect/) | 16.0.1.0.0 |  | Add multiselect display type for product and new filter for it
 [website_sale_cart_expire](website_sale_cart_expire/) | 16.0.1.0.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Cancel carts without activity after a configurable time
+[website_sale_comparison_hide_price](website_sale_comparison_hide_price/) | 16.0.1.0.0 |  | Hide product prices on the shop
 [website_sale_hide_price](website_sale_hide_price/) | 16.0.1.2.1 |  | Hide product prices on the shop
 [website_sale_product_attribute_value_filter_existing](website_sale_product_attribute_value_filter_existing/) | 16.0.1.0.1 |  | Allow hide attributes values not used in variants
 [website_sale_product_description](website_sale_product_description/) | 16.0.1.0.0 |  | Shows custom e-Commerce description for products
