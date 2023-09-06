@@ -1,6 +1,6 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* website_sale_order_type
+# 	* website_sale_invoice_address
 #
 msgid ""
 msgstr ""
@@ -16,10 +16,15 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.17\n"
 
-#. module: website_sale_order_type
-#: model:ir.model,name:website_sale_order_type.model_website
+#. module: website_sale_invoice_address
+#: model:ir.model,name:website_sale_invoice_address.model_sale_order
+msgid "Sales Order"
+msgstr "Orden de Venta"
+
+#. module: website_sale_invoice_address
+#: model:ir.model,name:website_sale_invoice_address.model_website
 msgid "Website"
-msgstr "Página Web"
+msgstr "Sitio web"
 
 #~ msgid "Allowing sale_order_type to work with website_sale."
 #~ msgstr "Permitir que sale_order_type funcione con website_sale."
