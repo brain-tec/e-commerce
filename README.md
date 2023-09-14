@@ -22,6 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [product_template_multi_link](product_template_multi_link/) | 15.0.1.0.0 |  | Product Multi Links (Template)
+[website_account_fiscal_position_partner_type](website_account_fiscal_position_partner_type/) | 15.0.1.0.0 |  | Website Account Fiscal Position Partner Type
 [website_sale_address_format](website_sale_address_format/) | 15.0.1.0.0 |  | Website Sale Address Format
 [website_sale_attribute_filter_form_submit](website_sale_attribute_filter_form_submit/) | 15.0.1.0.0 |  | Allow to apply manually the filters on the e-commerce
 [website_sale_b2x_alt_price](website_sale_b2x_alt_price/) | 15.0.1.1.0 | [![Yajo](https://github.com/Yajo.png?size=30px)](https://github.com/Yajo) | Display prices with(out) taxes in eCommerce, complementing normal mode
@@ -32,7 +33,7 @@ addon | version | maintainers | summary
 [website_sale_google_tag_manager](website_sale_google_tag_manager/) | 15.0.1.0.0 |  | Add support for Google Tag Manager Enhanced Conversions
 [website_sale_hide_empty_category](website_sale_hide_empty_category/) | 15.0.1.0.0 |  | Hide any Product Categories that are empty
 [website_sale_hide_price](website_sale_hide_price/) | 15.0.1.3.0 |  | Hide product prices on the shop
-[website_sale_invoice_address](website_sale_invoice_address/) | 15.0.1.0.0 |  | Set e-Commerce sale orders invoice address as in backend
+[website_sale_invoice_address](website_sale_invoice_address/) | 15.0.1.0.1 |  | Set e-Commerce sale orders invoice address as in backend
 [website_sale_order_type](website_sale_order_type/) | 15.0.1.0.1 | [![stefan-tecnativa](https://github.com/stefan-tecnativa.png?size=30px)](https://github.com/stefan-tecnativa) [![pilarvargas-tecnativa](https://github.com/pilarvargas-tecnativa.png?size=30px)](https://github.com/pilarvargas-tecnativa) | This module allows sale_order_type to work with website_sale.
 [website_sale_product_assortment](website_sale_product_assortment/) | 15.0.1.0.0 | [![CarlosRoca13](https://github.com/CarlosRoca13.png?size=30px)](https://github.com/CarlosRoca13) | Use product assortments to display products available on e-commerce.
 [website_sale_product_attachment](website_sale_product_attachment/) | 15.0.1.0.0 | [![Yajo](https://github.com/Yajo.png?size=30px)](https://github.com/Yajo) | Let visitors download attachments from a product page
