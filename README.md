@@ -28,7 +28,7 @@ addon | version | maintainers | summary
 [website_sale_b2x_alt_price](website_sale_b2x_alt_price/) | 15.0.1.1.0 | [![Yajo](https://github.com/Yajo.png?size=30px)](https://github.com/Yajo) | Display prices with(out) taxes in eCommerce, complementing normal mode
 [website_sale_cart_expire](website_sale_cart_expire/) | 15.0.1.1.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Cancel carts without activity after a configurable time
 [website_sale_checkout_country_vat](website_sale_checkout_country_vat/) | 15.0.1.0.0 |  | Autocomplete VAT in checkout process
-[website_sale_checkout_skip_payment](website_sale_checkout_skip_payment/) | 15.0.1.2.0 |  | Skip payment for logged users in checkout process
+[website_sale_checkout_skip_payment](website_sale_checkout_skip_payment/) | 15.0.1.2.1 |  | Skip payment for logged users in checkout process
 [website_sale_comparison_hide_price](website_sale_comparison_hide_price/) | 15.0.1.0.0 |  | Hide product prices on the shop
 [website_sale_google_tag_manager](website_sale_google_tag_manager/) | 15.0.1.0.0 |  | Add support for Google Tag Manager Enhanced Conversions
 [website_sale_hide_empty_category](website_sale_hide_empty_category/) | 15.0.1.0.0 |  | Hide any Product Categories that are empty
@@ -40,7 +40,7 @@ addon | version | maintainers | summary
 [website_sale_product_attribute_filter_category](website_sale_product_attribute_filter_category/) | 15.0.2.1.0 |  | Allow group attributes in shop by categories
 [website_sale_product_attribute_filter_collapse](website_sale_product_attribute_filter_collapse/) | 15.0.1.1.1 |  | Allows the attributes of the categories to be folded
 [website_sale_product_attribute_filter_order](website_sale_product_attribute_filter_order/) | 15.0.1.0.0 | [![Tardo](https://github.com/Tardo.png?size=30px)](https://github.com/Tardo) | Move active checkbox options to the first place of the list
-[website_sale_product_attribute_value_filter_existing](website_sale_product_attribute_value_filter_existing/) | 15.0.1.0.0 |  | Allow hide attributes values not used in variants
+[website_sale_product_attribute_value_filter_existing](website_sale_product_attribute_value_filter_existing/) | 15.0.1.0.1 |  | Allow hide attributes values not used in variants
 [website_sale_product_brand](website_sale_product_brand/) | 15.0.1.0.0 |  | Product Brand Filtering in Website
 [website_sale_product_description](website_sale_product_description/) | 15.0.1.1.0 |  | Shows custom e-Commerce description for products
 [website_sale_product_detail_attribute_image](website_sale_product_detail_attribute_image/) | 15.0.1.0.0 |  | Display attributes images in shop product detail
