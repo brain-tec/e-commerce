@@ -31,7 +31,7 @@ addon | version | maintainers | summary
 [website_sale_invoice_address](website_sale_invoice_address/) | 16.0.1.0.0 |  | Set e-Commerce sale orders invoice address as in backend
 [website_sale_order_type](website_sale_order_type/) | 16.0.1.0.1 | [![pilarvargas-tecnativa](https://github.com/pilarvargas-tecnativa.png?size=30px)](https://github.com/pilarvargas-tecnativa) | This module allows sale_order_type to work with website_sale.
 [website_sale_product_assortment](website_sale_product_assortment/) | 16.0.1.0.0 | [![CarlosRoca13](https://github.com/CarlosRoca13.png?size=30px)](https://github.com/CarlosRoca13) | Use product assortments to display products available on e-commerce.
-[website_sale_product_attachment](website_sale_product_attachment/) | 16.0.1.0.0 | [![Yajo](https://github.com/Yajo.png?size=30px)](https://github.com/Yajo) | Let visitors download attachments from a product page
+[website_sale_product_attachment](website_sale_product_attachment/) | 16.0.1.1.0 | [![Yajo](https://github.com/Yajo.png?size=30px)](https://github.com/Yajo) | Let visitors download attachments from a product page
 [website_sale_product_attribute_filter_collapse](website_sale_product_attribute_filter_collapse/) | 16.0.1.0.1 |  | Allows the attributes of the categories to be folded
 [website_sale_product_attribute_value_filter_existing](website_sale_product_attribute_value_filter_existing/) | 16.0.1.1.0 |  | Allow hide attributes values not used in variants
 [website_sale_product_brand](website_sale_product_brand/) | 16.0.1.0.1 |  | Product Brand Filtering in Website
@@ -42,7 +42,7 @@ addon | version | maintainers | summary
 [website_sale_product_minimal_price](website_sale_product_minimal_price/) | 16.0.1.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Display minimal price for products that has variants
 [website_sale_product_reference_displayed](website_sale_product_reference_displayed/) | 16.0.1.0.2 |  | Display product reference in e-commerce
 [website_sale_require_legal](website_sale_require_legal/) | 16.0.1.0.1 |  | Force the user to accept legal tems to buy in the web shop
-[website_sale_stock_available](website_sale_stock_available/) | 16.0.1.0.1 |  | Display 'Available to promise' in shop online instead of 'Free To Use Quantity'
+[website_sale_stock_available](website_sale_stock_available/) | 16.0.1.0.2 |  | Display 'Available to promise' in shop online instead of 'Free To Use Quantity'
 [website_sale_stock_list_preview](website_sale_stock_list_preview/) | 16.0.1.0.1 |  | Show the stock of products on the product previews
 [website_sale_stock_provisioning_date](website_sale_stock_provisioning_date/) | 16.0.1.0.0 |  | Display provisioning date for a product in shop online
 [website_sale_suggest_create_account](website_sale_suggest_create_account/) | 16.0.1.1.0 |  | Suggest users to create an account when buying in the website
