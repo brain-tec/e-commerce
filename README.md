@@ -32,6 +32,7 @@ addon | version | maintainers | summary
 [website_sale_charge_payment_fee](website_sale_charge_payment_fee/) | 19.0.1.0.0 | <a href='https://github.com/miguel-S73'><img src='https://github.com/miguel-S73.png' width='32' height='32' style='border-radius:50%;' alt='miguel-S73'/></a> | Payment fee charged to customer
 [website_sale_checkout_skip_payment](website_sale_checkout_skip_payment/) | 19.0.1.0.3 |  | Skip payment for logged users in checkout process
 [website_sale_comparison_specification_variant](website_sale_comparison_specification_variant/) | 19.0.1.0.0 |  | Website Sale Comparison Specification Variant
+[website_sale_hide_empty_category](website_sale_hide_empty_category/) | 19.0.1.0.0 |  | Hide any Product Categories that are empty
 [website_sale_hide_no_variant_attributes](website_sale_hide_no_variant_attributes/) | 19.0.1.0.0 |  | Exclude non-variant-defining attributes from the variant selector and its exclusion rules
 [website_sale_hide_price](website_sale_hide_price/) | 19.0.1.0.0 |  | Hide product prices on the shop
 [website_sale_one_time_delivery_address](website_sale_one_time_delivery_address/) | 19.0.1.0.0 |  | Create one-time delivery contacts from checkout delivery addresses
@@ -54,6 +55,7 @@ addon | version | maintainers | summary
 [website_sale_stock_provisioning_date](website_sale_stock_provisioning_date/) | 19.0.1.0.0 |  | Display provisioning date for a product in shop online
 [website_sale_tax_selection](website_sale_tax_selection/) | 19.0.1.0.0 | <a href='https://github.com/yankinmax'><img src='https://github.com/yankinmax.png' width='32' height='32' style='border-radius:50%;' alt='yankinmax'/></a> | Select e-commerce tax display by website partner
 [website_sale_variant_extra_fields](website_sale_variant_extra_fields/) | 19.0.1.0.0 |  | Show variant fields and more field types in the product page extra fields
+[website_sale_wishlist_keep](website_sale_wishlist_keep/) | 19.0.1.0.0 |  | Allows to add products to my cart but keep it in my wishlist
 
 [//]: # (end addons)
 
