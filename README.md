@@ -23,6 +23,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [product_alias](product_alias/) | 18.0.1.0.0 | <a href='https://github.com/Kev-Roche'><img src='https://github.com/Kev-Roche.png' width='32' height='32' style='border-radius:50%;' alt='Kev-Roche'/></a> | Alias for each product attribute values's configuration
+[product_alias_multi_link](product_alias_multi_link/) | 18.0.1.0.0 |  | Product Multi Links (Alias)
 [product_template_multi_link](product_template_multi_link/) | 18.0.1.0.1 |  | Product Multi Links (Template)
 [product_template_multi_link_date_span](product_template_multi_link_date_span/) | 18.0.1.0.0 |  | Add an optional date span for when a link is active.
 [product_variant_multi_link](product_variant_multi_link/) | 18.0.1.0.0 |  | Product Multi Links (Variant)
@@ -40,7 +41,7 @@ addon | version | maintainers | summary
 [website_sale_hide_empty_category](website_sale_hide_empty_category/) | 18.0.1.0.3 |  | Hide any Product Categories that are empty
 [website_sale_hide_price](website_sale_hide_price/) | 18.0.1.0.0 |  | Hide product prices on the shop
 [website_sale_order_shipping_modification](website_sale_order_shipping_modification/) | 18.0.1.0.0 |  | Change the delivery address in quotes from the portal
-[website_sale_order_type](website_sale_order_type/) | 18.0.1.1.2 | <a href='https://github.com/pilarvargas-tecnativa'><img src='https://github.com/pilarvargas-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='pilarvargas-tecnativa'/></a> | This module allows sale_order_type to work with website_sale.
+[website_sale_order_type](website_sale_order_type/) | 18.0.1.1.3 | <a href='https://github.com/pilarvargas-tecnativa'><img src='https://github.com/pilarvargas-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='pilarvargas-tecnativa'/></a> | This module allows sale_order_type to work with website_sale.
 [website_sale_product_assortment](website_sale_product_assortment/) | 18.0.1.1.1 | <a href='https://github.com/CarlosRoca13'><img src='https://github.com/CarlosRoca13.png' width='32' height='32' style='border-radius:50%;' alt='CarlosRoca13'/></a> | Use product assortments to display products available on e-commerce.
 [website_sale_product_attribute_filter_category](website_sale_product_attribute_filter_category/) | 18.0.1.0.2 |  | Allow group attributes in shop by categories
 [website_sale_product_attribute_filter_order](website_sale_product_attribute_filter_order/) | 18.0.1.0.0 | <a href='https://github.com/Tardo'><img src='https://github.com/Tardo.png' width='32' height='32' style='border-radius:50%;' alt='Tardo'/></a> | Move active checkbox options to the first place of the list
